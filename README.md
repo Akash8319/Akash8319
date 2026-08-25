@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Akash Kumar Gautam</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Learning+C%2C+C%2B%2B+%26+Web+Dev;Building+one+project+at+a+time" alt="Typing SVG" /> <p> <img src="https://img.shields.io/badge/FRONTEND%20DEVELOPER-A855F7?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/WEB%20FUNDAMENTALS-22C55E?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/OPEN%20TO%20LEARN-F59E0B?style=for-the-badge&logo=github&logoColor=white" /> </p> <p> <a href="https://github.com/Akash8319"><img src="https://img.shields.io/github/followers/Akash8319?label=Follow&style=social" /></a> <img src="https://komarev.com/ghpvc/?username=Akash8319&color=a855f7&style=flat" alt="profile views" /> </p> </div>
 ---
